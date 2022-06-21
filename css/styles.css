@@ -17,7 +17,7 @@ main {
 }
 
 .nft-image {
-  background-image: url("nft-preview-card-component-main\images\image-equilibrium.jpg");
+  background-image: url("images/image-equilibrium.jpg");
   border-radius: 10px;
   background-size: contain;
   aspect-ratio: 1;
